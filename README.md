@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Onurcan Musa</h1>
+<h1 align="center">Hi 👋, I'm Onurcan</h1>
 <h3 align="center">Frontend Developer • React / Next.js / TypeScript • Building Modern Web Experiences</h3>
 
 <p align="center">
