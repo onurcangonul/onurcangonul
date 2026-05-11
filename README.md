@@ -1,11 +1,89 @@
-<h1 align="center">Hi 👋, I'm Onurcan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Onurcan Musa</h1>
+<h3 align="center">Frontend Developer • React / Next.js / TypeScript • Building Modern Web Experiences</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://onurcangonul-website.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://onurcangonul-website.vercel.app" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/onurcangonul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onurcangonul/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/onurcanmusa">
+    <img src="https://komarev.com/ghpvc/?username=onurcanmusa&label=Profile%20views&color=0e75b6&style=flat" alt="onurcanmusa" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building modern web applications with **React, Next.js, TypeScript & .NET**
+- 🌱 Exploring **AI integrations, automation systems and scalable architectures**
+- ⚡ Focused on **UI/UX, performance optimization and clean code**
+- 📱 Also developing mobile apps using **React Native & Expo**
+- 🎯 Passionate about creating fast, responsive and modern interfaces
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/onurcangonul/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="https://onurcangonul-website.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="45" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,vite,nodejs,dotnet,cs,postgres,mysql,firebase,docker,git,github,figma,python,reactivex,sass,bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=onurcanmusa&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurcanmusa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+## 🛠 Featured Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/UI-Shadcn_UI-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB?style=for-the-badge&logo=react" />
+</p>
+
+---
+
+## 📌 Current Projects
+
+- 🍳 PairPan — Real-time collaborative cooking platform
+- 🤖 AI-powered automation & scraping systems
+- 📊 Modern admin dashboards with React + Vite + Shadcn UI
+- 📱 Social water reminder mobile application
+
+---
+
+## ⚡ Fun Fact
+
+```ts
+const onur = {
+  code: ["TypeScript", "JavaScript", "C#", "Python"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind", "Shadcn UI"],
+    backend: [".NET", "Node.js"],
+    mobile: ["React Native", "Expo"],
+    database: ["PostgreSQL", "SQL Server"],
+    devOps: ["Docker", "Git"],
+  },
+  currentFocus: "Building scalable products with modern UI/UX",
+};
