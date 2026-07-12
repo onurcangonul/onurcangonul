@@ -17,6 +17,12 @@
 - 📱 Also developing mobile apps using **React Native & Expo**
 - 🎯 Passionate about creating fast, responsive and modern interfaces
 
+## 🛠️ Hobby Projects — Electronics & IoT
+- 💡 **[remote-light-switch-esp32](https://github.com/onurcangonul/remote-light-switch-esp32)** — Controls a classic wall-mounted rocker light switch remotely over WiFi using an ESP32 and a micro servo — no rewiring, no relay, the servo just presses the switch like a finger.
+- ☔ **[esp32-rain-awning-automation](https://github.com/onurcangonul/esp32-rain-awning-automation)** — An ESP32-S3 + CC1101 RF + rain sensor system that listens to a retractable awning's original remote signal and automatically closes it when rain is detected, with real-time Telegram notifications.
+
+## ♿ Social Impact / Volunteering
+- 🖱️ **[a11y-mouth-mouse](https://github.com/onurcangonul/a11y-mouth-mouse)** — An open-source, mouth-controlled accessibility mouse built for people who can't use their hands. Built with an ESP32-S3 and a joystick module, it registers as a native USB mouse and supports left click, double-click, right-click, and scroll gestures. While commercial assistive devices often cost hundreds or thousands of dollars, this project aims to deliver the same functionality for around $10-15 in parts — making the technology accessible to everyone who needs it.
 ---
 
 ## 🌐 Connect With Me
